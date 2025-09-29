@@ -32,4 +32,3 @@ This experiment reinforces:
 
 ## CONCLUSION
 I wrote a C++ program that takes different types of inputs from the user and displays their memory sizes using the `sizeof` operator. Through this experiment, I understood how different data types are stored in memory and how to evaluate their sizes programmatically. It gave me a clear understanding of type-specific memory allocation in C++.
-# Experiment_2
